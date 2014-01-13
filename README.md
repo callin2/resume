@@ -18,6 +18,9 @@ Experience:
   - 2012년
     - incros
       - 구버전 DaVinci SDk 를 사용해서 작성된 Html application(email, bbs, 결제, 일정)을 새버전으로 변환
+    - codeM
+      - nscreen 지원 쇼핑몰 상품설명 페이지 authoring tool (ext.js)
+    
     
     
     
