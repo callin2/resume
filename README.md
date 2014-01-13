@@ -74,7 +74,7 @@ Programming Language:
     - html
   - 프로그램을 몇번 짜본 
     - Objective-c
-    - coffescript
+    - coffeescript
     - groovy
     - css
   - 계속 공부중이나 잘 안 익숙해지는 
