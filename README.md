@@ -16,8 +16,9 @@ Experience:
         - 리듬 RPG 게임app 기획/개발. (corona-sdk 사용)
   
   - 2012년
-    - 구버전 DaVinci SDk 를 사용해서 작성된 Html application(email, bbs, 결제, 일정)을 새버전으로 변환
-    - 
+    - incros
+      - 구버전 DaVinci SDk 를 사용해서 작성된 Html application(email, bbs, 결제, 일정)을 새버전으로 변환
+    
     
     
   
