@@ -40,6 +40,10 @@ Experience:
         - 구글사전과 연동되는 txt reader
         - cocoa touch
         - 참여 : 기획/개발 100%
+  - 2010년 
+    - [mmv](http://www.mobilepaymentsworld.com/sk-telecom-and-citi-launch-jv-to-provide-mobile-financial-services/)
+    - mobile banking server porting및 유지보수일을 담당 (java)
+    - 현재는 회사없어짐 
         
   - 199x년 ~ 200x년 
     - nicstech
@@ -119,6 +123,10 @@ Programming Tool:
 github:
 -------
   https://github.com/callin2
+  
+linkedin:
+---------
+  http://www.linkedin.com/pub/callin-rim/35/433/690
 
      
   
