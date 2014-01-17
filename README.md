@@ -95,6 +95,7 @@ Library/Framework:
       - TaffyDB
     - Lua
       - [coat](http://lua-coat.luaforge.net/)
+      - [lpeg](http://www.inf.puc-rio.br/~roberto/lpeg/)
     - java
       - Spring
       - iBatis
