@@ -3,8 +3,21 @@ Resume
 
 Experience:
 -----------  
+  - 2015년 
+    - Maneullab 
+      -  HTML5 기반 3d-map 변환도구 버전업. - 소방방재청. 이우시장(중국)  
+        -   front-end(snap.svg, three.js, bacon.js, lodash)
+        -   backend(node.js, mongodb)
+        -   3ds file conversion (lib3ds)
+      -  롯데리아 BLE Payment 시법사업 server (docker / node.js(express) / oracle ) - SKT
   - 2014년 
-    - ??????
+    - Dio Interactive  입사
+      - Geofence server (Spring framework) - SKT
+      - o2o server prototype (Node.js) - SKT
+      - 도면(이미지) 윤곽선 추출 (opencv, lua, luajit-ffi)
+    - Maneullab  입사
+      -  HTML5 기반 3d-map 변환도구 작성 - 소방방재청.
+      -  롯데리아 BLE Payment 시법사업 server (docker / node.js(express) / oracle )
 
   - 2013년 
     - 삼성전자 
