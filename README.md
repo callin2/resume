@@ -2,7 +2,24 @@ Resume
 ======
 
 Experience:
------------  
+-----------
+  - 2017년 ~ 2019년 
+    - [bitnine](https://bitnine.net/)
+      - graph data 시각화도구 개발 
+        - Mix various frontend tech to achieve performance (fetch, webgl, canvas, svg, webworker etc...)
+      - (RDB,JSON,CSV) to GraphDB Streaming ETL tool (ETL server: node.js, client: WEB(js))
+      - many in-house project and support project team 
+        - graphql backend server (node.js, apollo)
+        - zero config dev env. with docker and [coder](https://coder.com/)
+      
+  - 2016년 ~ 2017년 
+    - [엘리바이저](http://elevisor.com/)
+      - 기존 applet으로 구현된 chart를 HTML5(svg,canvas)로 재개발
+      - chart 편집도구 개발
+      - dashboard layout도구 개발 
+      - reporting 도구 개발 (인쇄, excel file download)
+      - 서버 <-> 클라이언트 통신규약 변경
+      - 서버모듈중 클라이언트의 data request 처리하느부분 아키텍쳐 변경
   - 2015년 
     - Maneullab 
       -  HTML5 기반 3d-map 변환도구 버전업. - 소방방재청. 이우시장(중국)  
@@ -15,9 +32,6 @@ Experience:
       - Geofence server (Spring framework) - SKT
       - o2o server prototype (Node.js) - SKT
       - 도면(이미지) 윤곽선 추출 (opencv, lua, luajit-ffi)
-    - Maneullab  입사
-      -  HTML5 기반 3d-map 변환도구 작성 - 소방방재청.
-      -  롯데리아 BLE Payment 시법사업 server (docker / node.js(express) / oracle )
 
   - 2013년 
     - 삼성전자 
@@ -87,25 +101,28 @@ Programming Language:
     - javascript(server/client)
     - java
     - Lua
-    - Gema
+    - coffeescript
     - html
   - 프로그램을 몇번 짜본 
     - Objective-c
-    - coffeescript
+    - typescript
     - groovy
     - css
+    - graphql
   - 계속 공부중이나 잘 안 익숙해지는 
     - haskell
     - scheme
     - J
+    - elm
+    
     
 Library/Framework:
 -----------------
   - 손에익은
     - javascript 
-      - jquery
+      - jquery(not use today)
       - underscore(lodash)
-      - TaffyDB
+      - d3.js
     - Lua
       - [coat](http://lua-coat.luaforge.net/)
       - [lpeg](http://www.inf.puc-rio.br/~roberto/lpeg/)
